@@ -35,7 +35,7 @@ I built an **interactive Power BI dashboard** to visualize the dataset and the m
 - **Correlation Analysis**: Visualizations of how different car attributes influence prices.
 - **Interactive Filters**: Users can explore the data by filtering attributes like brand, car type, and price range.
 
-![s1](https://github.com/user-attachments/assets/31d4bba9-5b50-45ac-b94f-350330ccd4fa)
+![image](https://github.com/user-attachments/assets/ba98eae6-f7bd-4048-a648-ac1a91086068)
 
 
 ### Key Insights
